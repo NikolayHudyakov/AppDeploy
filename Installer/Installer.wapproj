@@ -62,7 +62,7 @@
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <GenerateTestArtifacts>True</GenerateTestArtifacts>
     <AppxBundlePlatforms>x64</AppxBundlePlatforms>
-    <AppInstallerUri>C:\Users\Nikolay\Desktop\AppDeploy\Installer</AppInstallerUri>
+    <AppInstallerUri>https://github.com/NikolayHudyakov/AppDeploy/tree/main/Installer</AppInstallerUri>
     <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
     <PackageCertificateThumbprint>EBCFA531779AF9E81A015D333120E1FBCFEE5EC6</PackageCertificateThumbprint>
   </PropertyGroup>

@@ -9,7 +9,7 @@
   <Identity
     Name="77a13871-999b-4934-895a-e09bca73de10"
     Publisher="CN=Nikolay"
-    Version="1.2.6.0" />
+    Version="1.2.7.0" />
 
   <Properties>
     <DisplayName>Installer</DisplayName>
