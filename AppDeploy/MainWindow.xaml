@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="кнопка" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Content="кнопка" VerticalAlignment="Center" HorizontalAlignment="Center"/>
 
     </Grid>
 </Window>
