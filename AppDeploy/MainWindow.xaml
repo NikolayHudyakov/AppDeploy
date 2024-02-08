@@ -7,8 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="кнопка" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-        <Button Content="еще кнопка" VerticalAlignment="Center" HorizontalAlignment="Right"/>
-        <Button Content="еще кнопка" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <Label Content="привет"/>
     </Grid>
 </Window>
