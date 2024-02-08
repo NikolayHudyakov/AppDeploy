@@ -9,6 +9,6 @@
     <Grid>
         <Button Content="кнопка" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         <Button Content="еще кнопка" VerticalAlignment="Center" HorizontalAlignment="Right"/>
-
+        <Button Content="еще кнопка" VerticalAlignment="Center" HorizontalAlignment="Right"/>
     </Grid>
 </Window>
